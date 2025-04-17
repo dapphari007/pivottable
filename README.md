@@ -1,4 +1,4 @@
-# 📊 Pivot Table Generator (React + Dropdown UI)
+# 📊 Pivot Table Generator (React + Dropdown)
 
 A lightweight and customizable **Pivot Table Generator** built with **React (CRA)**. Easily summarize and analyze data using **dropdown menus** to select row and column headers—no drag-and-drop needed!
 
